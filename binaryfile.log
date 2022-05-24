@@ -1,0 +1,4 @@
+﻿  binaryfile.cpp
+C:\programming\binaryfile\binaryfile\binaryfile.cpp(16,37): error C2660: fopen_s: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(102,34): message : см. объявление "fopen_s"
+C:\programming\binaryfile\binaryfile\binaryfile.cpp(28,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
